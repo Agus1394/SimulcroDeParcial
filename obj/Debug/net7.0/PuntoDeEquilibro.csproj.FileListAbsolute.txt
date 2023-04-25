@@ -1,0 +1,15 @@
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Punto de Equilibro\bin\Debug\net7.0\PuntoDeEquilibro.exe
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Punto de Equilibro\bin\Debug\net7.0\PuntoDeEquilibro.deps.json
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Punto de Equilibro\bin\Debug\net7.0\PuntoDeEquilibro.runtimeconfig.json
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Punto de Equilibro\bin\Debug\net7.0\PuntoDeEquilibro.dll
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Punto de Equilibro\bin\Debug\net7.0\PuntoDeEquilibro.pdb
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Punto de Equilibro\obj\Debug\net7.0\PuntoDeEquilibro.csproj.AssemblyReference.cache
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Punto de Equilibro\obj\Debug\net7.0\PuntoDeEquilibro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Punto de Equilibro\obj\Debug\net7.0\PuntoDeEquilibro.AssemblyInfoInputs.cache
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Punto de Equilibro\obj\Debug\net7.0\PuntoDeEquilibro.AssemblyInfo.cs
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Punto de Equilibro\obj\Debug\net7.0\PuntoDeEquilibro.csproj.CoreCompileInputs.cache
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Punto de Equilibro\obj\Debug\net7.0\PuntoDeEquilibro.dll
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Punto de Equilibro\obj\Debug\net7.0\refint\PuntoDeEquilibro.dll
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Punto de Equilibro\obj\Debug\net7.0\PuntoDeEquilibro.pdb
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Punto de Equilibro\obj\Debug\net7.0\PuntoDeEquilibro.genruntimeconfig.cache
+C:\Users\AGUS\Desktop\ProgramasDotNetYC\Punto de Equilibro\obj\Debug\net7.0\ref\PuntoDeEquilibro.dll
